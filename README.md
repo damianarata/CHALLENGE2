@@ -29,9 +29,7 @@ pip install mysql-connector-python
   
 install google-auth-oauthlib: 
 pip install google-auth-oauthlib
-  
-instalar web driver: 
-pip install selenium
+
   
 Descargar credenciales en formato JSON (click Enable API) almacenar en el misma carpeta donde esta el prorama
 https://developers.google.com/gmail/api/quickstart/python
