@@ -13,6 +13,9 @@ La base de datos también debe ser creada.
 
 instalar python 3.7
 https://www.python.org/downloads/release/python-370/
+
+instalar pip
+https://bootstrap.pypa.io/3.2/get-pip.py
   
 instalar mysql
 https://dev.mysql.com/downloads/mysql/
@@ -31,5 +34,5 @@ instalar web driver
 pip install selenium
   
 Descargar credenciales en formato JSON (click Enable API) almacenar en el misma carpeta donde esta el prorama
-https://developers.google.com/gmail/api/v1/reference/users/messages/list#examples
+https://developers.google.com/gmail/api/quickstart/python
  
