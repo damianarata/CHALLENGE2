@@ -27,9 +27,11 @@ pass: Meli2019#
 instalar conector mysql-python: 
 pip install mysql-connector-python
   
-install google-auth-oauthlib: 
+instalar google-auth-oauthlib: 
 pip install google-auth-oauthlib
 
+instalar google API:
+pip install --upgrade google-api-python-client
   
 Descargar credenciales en formato JSON (click Enable API) almacenar en el misma carpeta donde esta el prorama
 https://developers.google.com/gmail/api/quickstart/python
