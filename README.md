@@ -24,13 +24,13 @@ credenciales:
 user: root
 pass: Meli2019#
     
-instalar conector mysql-python
+instalar conector mysql-python: 
 pip install mysql-connector-python
   
-install google-auth-oauthlib
+install google-auth-oauthlib: 
 pip install google-auth-oauthlib
   
-instalar web driver
+instalar web driver: 
 pip install selenium
   
 Descargar credenciales en formato JSON (click Enable API) almacenar en el misma carpeta donde esta el prorama
