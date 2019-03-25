@@ -18,7 +18,7 @@ instalar pip
 https://bootstrap.pypa.io/3.2/get-pip.py
   
 instalar mysql
-https://dev.mysql.com/downloads/mysql/
+https://dev.mysql.com/downloads/installer/
   
 credenciales:
 user: root
