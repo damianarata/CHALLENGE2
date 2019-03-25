@@ -11,13 +11,16 @@ De estos correos debés guardar en una base de datos MySQL los
 siguientes campos: fecha, from, subject.
 La base de datos también debe ser creada.
 
-instalar python 3.7
+instalar python 3.7: 
 https://www.python.org/downloads/release/python-370/
 
-instalar pip
-https://bootstrap.pypa.io/3.2/get-pip.py
+instalar pip: 
+https://bootstrap.pypa.io/3.2/get-pip.py 
+
+actualizar pip: 
+python -m pip install --upgrade pip
   
-instalar mysql
+instalar mysql:
 https://dev.mysql.com/downloads/installer/
   
 credenciales:
